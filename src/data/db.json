@@ -1,0 +1,553 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "nome": "Fiat Argo",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Elétrica",
+      "logo": "../assets/LogoFiat.png",
+      "imagemUrl": "../assets/FiatArgo.png"
+    },
+     {
+      "id": 2,
+      "nome": "Polo",
+      "motor": "1.4",
+      "combustivel": "Gasolina",
+      "direcao": "Elétrica",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/NovoPolo.png"
+    },
+    {
+      "id": 3,
+      "nome": "Hyundai HB20",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoHyundai.png",
+      "imagemUrl": "../assets/HyundaiHB20.png"
+    },
+    {
+      "id": 4,
+      "nome": "Renault Captur",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoRenault.png",
+      "imagemUrl": "../assets/RenaultCaptur.png"
+    },
+    {
+      "id": 5,
+      "nome": "Fiat Uno",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoFiat.png",
+      "imagemUrl": "../assets/FiatUno.png"
+    },
+    {
+      "id": 6,
+      "nome": "Evoque",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoLandRover.png",
+      "imagemUrl": "../assets/LandRoverEvoque.png"
+    },
+    {
+      "id": 7,
+      "nome": "Fiat Strada",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoFiat.png",
+      "imagemUrl": "../assets/FiatStrada.png"
+    },
+    {
+      "id": 8,
+      "nome": "Renault Duster",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoRenault.png",
+      "imagemUrl": "../assets/RenaultDuster.png"
+    },
+    {
+      "id": 9,
+      "nome": "Troller T4",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoTroller.png",
+      "imagemUrl": "../assets/TrollerT4.png"
+    },
+    {
+      "id": 10,
+      "nome": "Honda Civic",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoHonda.png",
+      "imagemUrl": "../assets/HondaCivic.png"
+    },
+    {
+      "id": 11,
+      "nome": "Kia Cerato",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoKia.png",
+      "imagemUrl": "../assets/KiaCerato.png"
+    },
+    {
+      "id": 12,
+      "nome": "Mini Cooper",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoMini.png",
+      "imagemUrl": "../assets/MiniCooper.png"
+    },
+    {
+      "id": 13,
+      "nome": "Nissan Frontier",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoNissan.png",
+      "imagemUrl": "../assets/NissanFrontier.png"
+    },
+    {
+      "id": 14,
+      "nome": "Fox",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/VolksFox.png"
+    },
+    {
+      "id": 15,
+      "nome": "Volvo XC60",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolvo.png",
+      "imagemUrl": "../assets/VolvoXC60.png"
+    },
+    {
+      "id": 16,
+      "nome": "Peugeot 208",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Elétrica",
+      "logo": "../assets/LogoPeugeot.png",
+      "imagemUrl": "../assets/Peugeot208.png"
+    },
+    {
+      "id": 17,
+      "nome": "Suzuki Jimmy",
+      "motor": "1.4",
+      "combustivel": "Gasolina",
+      "direcao": "Elétrica",
+      "logo": "../assets/LogoSuzuki.png",
+      "imagemUrl": "../assets/SuzukiJimmy.png"
+    },
+    {
+      "id": 18,
+      "nome": "Palio Fire",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoFiat.png",
+      "imagemUrl": "../assets/PalioFire.png"
+    },
+    {
+      "id": 19,
+      "nome": "Golf GTI",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/VolkswagenGolf.png"
+    },
+    {
+      "id": 20,
+      "nome": "Classe C",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoMercedes.png",
+      "imagemUrl": "../assets/MercedsClasseC.png"
+    },
+    {
+      "id": 21,
+      "nome": "Nivus",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/VolksNivus.png"
+    },
+    {
+      "id": 22,
+      "nome": "Toyota Corolla",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoToyota.png",
+      "imagemUrl": "../assets/ToyotaCorolla.png"
+    },
+    {
+      "id": 23,
+      "nome": "Citroen Cactus",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoCitroen.png",
+      "imagemUrl": "../assets/CitroenCactus.png"
+    },
+    {
+      "id": 24,
+      "nome": "Volkswagen Gol",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/NovoGol.png"
+    },
+    {
+      "id": 25,
+      "nome": "Nissan Versa",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoNissan.png",
+      "imagemUrl": "../assets/NissanVersa.png"
+    },
+    {
+      "id": 26,
+      "nome": "L200",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoMitsubishi.png",
+      "imagemUrl": "../assets/MitsubishiL200.png"
+    },
+    {
+      "id": 27,
+      "nome": "UP",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/VolksUP.png"
+    },
+    {
+      "id": 28,
+      "nome": "Onix",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoChevrolet.png",
+      "imagemUrl": "../assets/Onix.png"
+    },
+    {
+      "id": 29,
+      "nome": "Renault Logan",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoRenault.png",
+      "imagemUrl": "../assets/ReanultLogan.png"
+    },
+    {
+      "id": 30,
+      "nome": "Volvo XC40",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolvo.png",
+      "imagemUrl": "../assets/VolvoXC40.png"
+    },
+    {
+      "id": 31,
+      "nome": "Nissan Kicks",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Elétrica",
+      "logo": "../assets/LogoNissan.png",
+      "imagemUrl": "../assets/NissanKicks.png"
+    },
+    {
+      "id": 32,
+      "nome": "Sandero",
+      "motor": "1.4",
+      "combustivel": "Gasolina",
+      "direcao": "Elétrica",
+      "logo": "../assets/LogoRenault.png",
+      "imagemUrl": "../assets/RenaultSandero.png"
+    },
+    {
+      "id": 33,
+      "nome": "Tiguan",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/VolksTiguan.png"
+    },
+    {
+      "id": 34,
+      "nome": "Tiggo 8",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoChery.png",
+      "imagemUrl": "../assets/Tiggo8.png"
+    },
+    {
+      "id": 35,
+      "nome": "Evolucion",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoMitsubishi.png",
+      "imagemUrl": "../assets/MitsubishiEvolucion.png"
+    },
+    {
+      "id": 36,
+      "nome": "Audi TT",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoAudi.png",
+      "imagemUrl": "../assets/AudiTT.png"
+    },
+    {
+      "id": 37,
+      "nome": "Jeep Renegade",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoJeep.png",
+      "imagemUrl": "../assets/JeepRenegade.png"
+    },
+    {
+      "id":38,
+      "nome": "Celta",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoChevrolet.png",
+      "imagemUrl": "../assets/Celta.png"
+    },
+    {
+      "id": 39,
+      "nome": "Voyage",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/NovoVoyage.png"
+    },
+    {
+      "id": 40,
+      "nome": "EcoEsport",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoFord.png",
+      "imagemUrl": "../assets/FordEcoEsport.png"
+    },
+    {
+      "id": 41,
+      "nome": "Spin",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoChevrolet.png",
+      "imagemUrl": "../assets/ChevroletSpin.png"
+    },
+    {
+      "id": 42,
+      "nome": "T-Cross",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/T-Cross.png"
+    },
+    {
+      "id": 43,
+      "nome": "Toyota Hilux",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoToyota.png",
+      "imagemUrl": "../assets/ToyotaHilux.png"
+    },
+    {
+      "id": 44,
+      "nome": "New Beetle",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/VolksNewBeetle.png"
+    },
+    {
+      "id": 45,
+      "nome": "Ford Ka",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoFord.png",
+      "imagemUrl": "../assets/FordKa.png"
+    },
+    {
+      "id": 46,
+      "nome": "Kia Sportage",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Elétrica",
+      "logo": "../assets/LogoKia.png",
+      "imagemUrl": "../assets/KiaSportage.png"
+    },
+    {
+      "id": 47,
+      "nome": "Virtus",
+      "motor": "1.4",
+      "combustivel": "Gasolina",
+      "direcao": "Elétrica",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/VolksVirtus.png"
+    },
+    {
+      "id": 48,
+      "nome": "Renault Kwid",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoRenault.png",
+      "imagemUrl": "../assets/RenaultKwid.png"
+    },
+    {
+      "id": 49,
+      "nome": "Fiat Cronos",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoFiat.png",
+      "imagemUrl": "../assets/FiatCronos.png"
+    },
+    {
+      "id": 50,
+      "nome": "Audi Q3",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoAudi.png",
+      "imagemUrl": "../assets/AudiQ3.png"
+    },
+    {
+      "id": 51,
+      "nome": "Honda City",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoHonda.png",
+      "imagemUrl": "../assets/HondaCity.png"
+    },
+    {
+      "id": 52,
+      "nome": "CrossFox",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoVolkswagen.png",
+      "imagemUrl": "../assets/VolksCrossFox.png"
+    },
+    {
+      "id": 53,
+      "nome": "Fiat Mobi",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoFiat.png",
+      "imagemUrl": "../assets/FiatMobi.png"
+    },
+    {
+      "id": 54,
+      "nome": "Audi A1",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoAudi.png",
+      "imagemUrl": "../assets/AudiA1.png"
+    },
+    {
+      "id": 55,
+      "nome": "Jeep Compass",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoJeep.png",
+      "imagemUrl": "../assets/JeepCompass.png"
+    },
+    {
+      "id": 56,
+      "nome": "Tracker",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoChevrolet.png",
+      "imagemUrl": "../assets/ChevroletTracker.png"
+    },
+    {
+      "id": 57,
+      "nome": "Prisma",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoChevrolet.png",
+      "imagemUrl": "../assets/ChevroletPrisma.png"
+    },
+    {
+      "id": 58,
+      "nome": "Hyundai Creta",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoHyundai.png",
+      "imagemUrl": "../assets/HyundaiCreta.png"
+    },
+    {
+      "id": 59,
+      "nome": "Honda HR-V",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoHonda.png",
+      "imagemUrl": "../assets/HondaHR-V.png"
+    },
+    {
+      "id": 60,
+      "nome": "Ford Ranger",
+      "motor": "1.0",
+      "combustivel": "Gasolina",
+      "direcao": "Manual",
+      "logo": "../assets/LogoFord.png",
+      "imagemUrl": "../assets/FordRanger.png"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+

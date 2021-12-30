@@ -1,0 +1,28 @@
+<body>
+
+
+<div class="container">
+  <div class="card">
+    <button (click)="goBack()" id="btn-back"><mat-icon>arrow_back</mat-icon></button>
+    <div class="barra">
+   <img [src]="this.car.logo" class="logo">
+   <img [src]="this.car.imagemUrl" alt="" class="car">
+     <h1 class="nome">{{this.car.nome}}</h1>
+
+     <div class="intro">
+       <p>Tipo de Combustível</p>
+       <p>Motor</p>
+       <p>Direção</p>
+      </div>
+
+     <div class="detalhes">
+       <p class="gasoline">{{this.car.combustivel}}</p>
+       <p class="motor">{{this.car.motor}}</p>
+       <p class="direcao">{{this.car.direcao}}</p>
+     </div>
+
+    </div>
+  </div>
+</div>
+
+</body>

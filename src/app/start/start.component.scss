@@ -1,0 +1,50 @@
+
+#btn-route {
+  position: relative;
+  width: 40vh;
+  height: 9vh;
+  top: -360px;
+  left: 630px;
+  background: rgba(163, 32, 32, 0.78);
+  border: none;
+  box-shadow:rgba(40, 10, 10, 0.33);
+
+  -webkit-transform: skew(-20deg);
+  -moz-transform: skew(-20deg);
+  -o-transform: skew(-20deg);
+  font-size: 25px;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+#text {
+  position: absolute;
+  width: 682px;
+  height: 348px;
+  left: 640px;
+  top: 20px;
+
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 120px;
+  line-height: 115px;
+  color: rgba(255, 200, 0, 0.774);
+  text-shadow: -24px 4px 13px rgba(10, 10, 10, 0.33);
+}
+
+#seta {
+  position: relative;
+  top: -342px;
+  color: #fff;
+  font-size: 50px;
+  left: 570px;
+  cursor: pointer;
+}
+
+#logo-nav {
+  position: relative;
+  top: -720px;
+  left: 80px;
+}

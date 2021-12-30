@@ -1,0 +1,35 @@
+<img src="./../../../assets/fundo-branco.jpg " style="width: 100%; height: 100vh;">
+<div class="back-input">
+  <input type="search" [(ngModel)]="searchKey" id="input-item" placeholder="Buscar...">
+  <img id="icon-search" src="../../../assets/search.png" onclick="getSearch()">
+  <img id="logo-nav" src="../../../assets/list_car.png">
+</div>
+<br>
+
+
+<section class="listagem">
+  <div class="intro" style="text-align: center;">
+  </div>
+
+  <section class="card-back">
+
+    <section class="section__cars" id="section-cars">
+      <div class="row" *ngFor="let veiculo of data | filter: searchKey">
+        <div class="container">
+          <a target="_blank" [routerLink]="['details', data.id]"></a>
+          <div class="card">
+            <img class="image" [src]="veiculo.imagemUrl" width="300" height="200" alt="thumbnail"
+            (click)="setIndividualVehicle(veiculo.id)" [routerLink]="['/details', veiculo.id]">
+
+            <img class="logo" [src]="veiculo.logo" width="120" height="100" style="align-items: center;" alt="thumbnail">
+            <div class="desc">{{veiculo.title}}</div>
+            <div class="nome">{{veiculo.nome}}</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </section>
+  </section>
+
+

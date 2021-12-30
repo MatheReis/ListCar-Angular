@@ -1,0 +1,150 @@
+body{
+  background-image: radial-gradient( circle farthest-corner at 22.4% 21.7%, rgba(4,189,228,1) 0%, rgba(2,83,185,1) 100.2% );
+}
+
+.card {
+  position: relative;
+  width: 504px;
+  height: 381px;
+  background-color: #f4f4f5;
+  box-shadow: 4px 3px 30px -3px royalblue;
+  border-radius: 20px;
+  align-items: center;
+  display: flex;
+  left: 303px;
+  top: 191px;
+}
+
+#btn-back{
+  position: relative;
+  position: relative;
+  top: -178px;
+  left: -599px;
+  width: 55px;
+  border: none;
+  background: none;
+}
+
+mat-icon {
+  position: relative;
+  font-size: 39px;
+  left: -24px;
+
+}
+
+
+.car{
+  width: 390px;
+  left: 50px;
+  position: relative;
+  top: -300px;
+  animation: down 2s linear;
+  animation: slideInDown 0.9s linear;
+}
+
+.logo{
+  position: relative;
+  width: 143px;
+  top: -195px;
+  left: -12px;
+  animation: slideInDown 0.9s linear;
+}
+
+.nome{
+  font-size: 48px;
+  font-family: 'Roboto',sans-serif;
+  top: -293px;
+  position: relative;
+  text-align: center;
+  animation: slideInLeft 0.9s linear;
+}
+
+.intro{
+  position: relative;
+  font-family: 'Roboto',sans-serif;
+  top: -256px;
+  left: 35px;
+  font-size: 20px;
+}
+
+.detalhes{
+  position: relative;
+  font-family: 'Roboto',sans-serif;
+  top: -383px;
+  font-size: 20px;
+  text-align: end;
+  left: -25px;
+}
+
+/* Animações */
+
+@-webkit-keyframes slideInDown {
+	0% {
+		-webkit-transform: translateY(-100%);
+		transform: translateY(-100%);
+		visibility: visible;
+	}
+	100% {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+}
+@keyframes slideInDown {
+	0% {
+		-webkit-transform: translateY(-100%);
+		transform: translateY(-100%);
+		visibility: visible;
+	}
+	100% {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+}
+
+
+@-webkit-keyframes slideInLeft {
+	0% {
+		-webkit-transform: translateX(-100%);
+		transform: translateX(-100%);
+		visibility: visible;
+	}
+	100% {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+	}
+}
+@keyframes slideInLeft {
+	0% {
+		-webkit-transform: translateX(-100%);
+		transform: translateX(-100%);
+		visibility: visible;
+	}
+	100% {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+	}
+}
+
+
+@-webkit-keyframes slideInRight {
+	0% {
+		-webkit-transform: translateX(100%);
+		transform: translateX(100%);
+		visibility: visible;
+	}
+	100% {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+	}
+}
+@keyframes slideInRight {
+	0% {
+		-webkit-transform: translateX(100%);
+		transform: translateX(100%);
+		visibility: visible;
+	}
+	100% {
+		-webkit-transform: translateX(0);
+		transform: translateX(0);
+	}
+}
